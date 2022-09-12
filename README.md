@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @s7ls
+- 👋 Hi, I’m Johnny S
 - 👀 I’m interested in Blockchain Development 
 - 🌱 I’m currently learning Smart Contracts
 - 💞️ I’m looking to collaborate on Blockchain Engineering 
